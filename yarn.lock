@@ -19729,15 +19729,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"postcss-preset-mantine@npm:1.11.1":
-  version: 1.11.1
-  resolution: "postcss-preset-mantine@npm:1.11.1"
+"postcss-preset-mantine@npm:1.12.0":
+  version: 1.12.0
+  resolution: "postcss-preset-mantine@npm:1.12.0"
   dependencies:
     postcss-mixins: ^9.0.4
     postcss-nested: ^6.0.1
   peerDependencies:
     postcss: ">=8.0.0"
-  checksum: 2ea2e650df0f612cc05fdf344a4eb82a01f30c7a7b474d3c4b0dcfd190a9e3e285ea855730139a8c357c0e8424725aba9fd53d745246242cc170f50bb1e52546
+  checksum: 4a4c8635027ea4a770826ceeb9e099aab24f59d2e83e634ca709e0726dca330a85398de019a334c8c1dd7b9088535500738a8b8600d749f80727594e48a91014
   languageName: node
   linkType: hard
 
@@ -21305,7 +21305,7 @@ __metadata:
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
     "@redwoodjs/core": 5.2.3
-    postcss-preset-mantine: 1.11.1
+    postcss-preset-mantine: 1.12.0
   languageName: unknown
   linkType: soft
 
@@ -24389,7 +24389,7 @@ __metadata:
     "@redwoodjs/web": 5.2.3
     postcss: ^8.4.23
     postcss-loader: ^7.3.0
-    postcss-preset-mantine: 1.11.1
+    postcss-preset-mantine: 1.12.0
     postcss-simple-vars: ^7.0.1
     prop-types: 15.8.1
     react: 18.2.0
