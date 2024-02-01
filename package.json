@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "@redwoodjs/core": "5.2.3",
-    "postcss-preset-mantine": "1.12.3"
+    "postcss-preset-mantine": "1.13.0"
   },
   "eslintConfig": {
     "extends": "@redwoodjs/eslint-config",
