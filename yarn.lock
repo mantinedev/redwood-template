@@ -3577,7 +3577,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mantine/core@npm:^7.5.3":
+"@mantine/core@npm:7.5.3":
   version: 7.5.3
   resolution: "@mantine/core@npm:7.5.3"
   dependencies:
@@ -3595,7 +3595,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mantine/hooks@npm:^7.5.3":
+"@mantine/hooks@npm:7.5.3":
   version: 7.5.3
   resolution: "@mantine/hooks@npm:7.5.3"
   peerDependencies:
@@ -20284,8 +20284,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "web@workspace:web"
   dependencies:
-    "@mantine/core": "npm:^7.5.3"
-    "@mantine/hooks": "npm:^7.5.3"
+    "@mantine/core": "npm:7.5.3"
+    "@mantine/hooks": "npm:7.5.3"
     "@redwoodjs/forms": "npm:6.6.4"
     "@redwoodjs/router": "npm:6.6.4"
     "@redwoodjs/vite": "npm:6.6.4"
