@@ -11,8 +11,8 @@
     ]
   },
   "dependencies": {
-    "@mantine/core": "8.3.3",
-    "@mantine/hooks": "8.3.3",
+    "@mantine/core": "8.3.4",
+    "@mantine/hooks": "8.3.4",
     "@redwoodjs/forms": "6.6.4",
     "@redwoodjs/router": "6.6.4",
     "@redwoodjs/web": "6.6.4",
