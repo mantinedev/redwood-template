@@ -7,7 +7,6 @@
     "module": "esnext",
     "moduleResolution": "node",
     "skipLibCheck": false,
-    "baseUrl": "./",
     "rootDirs": [
       "./src",
       "../.redwood/types/mirror/api/src"
@@ -25,7 +24,8 @@
       "./node_modules/@types"
     ],
     "types": ["jest"],
-    "jsx": "react-jsx"
+    "jsx": "react-jsx",
+    "ignoreDeprecations": "6.0"
   },
   "include": [
     "src",

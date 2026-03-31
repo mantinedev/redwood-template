@@ -6,7 +6,6 @@
     "target": "esnext",
     "module": "esnext",
     "moduleResolution": "node",
-    "baseUrl": "./",
     "skipLibCheck": false,
     "rootDirs": [
       "./src",
@@ -27,7 +26,8 @@
     },
     "typeRoots": ["../node_modules/@types", "./node_modules/@types"],
     "types": ["jest", "@testing-library/jest-dom"],
-    "jsx": "preserve"
+    "jsx": "preserve",
+    "ignoreDeprecations": "6.0"
   },
   "include": [
     "src",

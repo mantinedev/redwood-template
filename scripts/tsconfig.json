@@ -6,7 +6,6 @@
     "target": "esnext",
     "module": "esnext",
     "moduleResolution": "node",
-    "baseUrl": "./",
     "paths": {
       "$api/*": [
         "../api/*"
@@ -31,7 +30,8 @@
       "types/*": ["../types/*", "../web/types/*", "../api/types/*"]
     },
     "typeRoots": ["../node_modules/@types"],
-    "jsx": "preserve"
+    "jsx": "preserve",
+    "ignoreDeprecations": "6.0"
   },
   "include": [
     ".",
